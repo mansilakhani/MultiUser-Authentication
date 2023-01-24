@@ -40,8 +40,7 @@ dependencies:
   cloud_firestore:
   firebase_core:
   firebase_database:
-  google_sign_in: ^5.4.2
-  firebase_auth:
+ 
 
 
 
