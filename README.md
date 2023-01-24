@@ -1,4 +1,4 @@
-# pratical2
+# MultiUser Module App
 
 A MultiUser Module App Project in Flutter
 
