@@ -1,6 +1,6 @@
 # pratical2
 
-A new Flutter project.
+A MultiUser Module App Project in Flutter
 
 ## GIf
 
